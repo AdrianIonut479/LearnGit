@@ -1,7 +1,0 @@
-Vendors Name
-Location
-Phone Nr
-
-New Vendors
-Name
-Location Ph Nr
